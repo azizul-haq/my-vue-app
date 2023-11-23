@@ -1,0 +1,11 @@
+.singer{
+    border: 2px solid darkblue;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+    background-color: black;
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+
+}
